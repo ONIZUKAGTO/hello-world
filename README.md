@@ -1,2 +1,2 @@
 # hello-world
-Fiirst Git depository ever
+First Git depository ever
